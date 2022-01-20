@@ -1,2 +1,2 @@
 # spring-basic
-infrun spring basic 강의 
+infearn spring basic 강의 
